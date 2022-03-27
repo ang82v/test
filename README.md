@@ -16,3 +16,6 @@ gitignore (список файлов не добавляющиеся в удал
 // создание веток
 git branch developer - бавляем ветку
 git checkout developer - сменить ветку
+
+// перенос веток
+pull request
